@@ -1,2 +1,2 @@
 # Ahorcado_CLI_Game
-Introducció a la programacion - TP Final (Juego de ahorcado)  - 2019 UNCO
+TP Final (Juego de ahorcado) - Introducció a la programacion - 2019 UNCO
